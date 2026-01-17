@@ -27,6 +27,9 @@
         <li>🎓 4th Year BSIT Student @ <b>Technological University of the Philippines - Taguig</b></li>
         <li>💻 Passionate about <b>Full Stack Development & Cloud Technologies</b></li>
         <li>📈 Currently <b>expanding and improving my skillset</b></li>
+        <li>🔭 Working on <b>building my own portfolio website</b></li>
+        <li>🤝 Open to <b>collaborations and internship opportunities</b></li>
+        <li>💬 Ask me about <b>React, Node.js, Laravel, or anything tech!</b></li>
         <li>☕ Loves drinking <b>coffee</b> and <b>tea</b></li>
       </ul>
     </td>
